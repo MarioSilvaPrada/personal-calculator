@@ -1,3 +1,5 @@
 # My Personal Calculator
 
-### Caculator built with React and library MathJs
+### Caculator built with React and MathJs ⚡
+
+![alt text](/calculator.PNG)
