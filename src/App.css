@@ -1,0 +1,13 @@
+.user-buttons {
+    display: flex;
+}
+
+.colum1 {
+    display: flex;
+    flex-direction: column;
+    width:70%;
+}
+
+.colum2 {
+    width:30%;
+}

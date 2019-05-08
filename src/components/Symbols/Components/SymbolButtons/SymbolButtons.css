@@ -1,0 +1,12 @@
+.fas {
+    font-size: 3em;
+    color:orangered;
+    display: flex;
+    justify-content: center;
+}
+
+.fas:hover{
+    cursor: pointer;
+}
+
+

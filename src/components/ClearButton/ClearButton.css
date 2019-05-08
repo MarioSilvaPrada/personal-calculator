@@ -1,0 +1,19 @@
+.clearBtn {
+    width: 100%;
+    height: 175px;
+    background-color: #ff9a9a; background-image: -webkit-gradient(linear, left top, left bottom, from(#ff9a9a), to(#ff4040));
+    border-top: 2px solid #1d1919;
+    border-right: 2px solid #1d1919;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.clearBtn:hover {
+    cursor: pointer;
+    background-color: #ff6767; background-image: -webkit-gradient(linear, left top, left bottom, from(#ff6767), to(#ff0d0d));
+}
+
+.clearBtn span {
+    font-size: 2em;
+}
